@@ -1,0 +1,14 @@
+.faction {
+  margin: .5% .5%;
+  width: 18%;
+  border: 1px solid #bbb;
+  background-color: #eee;
+  min-height: 350px;
+}
+
+.factionLogo {
+  background-repeat:no-repeat;
+  background-position: center center;
+  background-size: auto 100px !important;
+  height: 100px;
+}
